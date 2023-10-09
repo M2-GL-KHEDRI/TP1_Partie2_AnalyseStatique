@@ -1,6 +1,5 @@
-# oo-app-statistical-analyzer
+1.Open the project in IntelliJ IDEA or eclipse
 
-run : 
-```sh
-java -jar oo-app-statistical-analyzer.jar
-```
+2.Go to class Parser in : src/main/java/Parser.java
+
+3.Run this class

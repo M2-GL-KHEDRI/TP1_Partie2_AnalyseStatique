@@ -25,7 +25,7 @@ public class Parser {
         System.out.println("\n Fournissez le chemin de votre projet s'il vous plaît: ");
         String projectPath = sc.next();
 
-        System.out.println("\n Fournissez votre chemin JDK s'il vous plaît : ");
+        System.out.println("\n Fournissez votre chemin JDK s'il vous plaît: ");
         String jrePath = sc.next();
         String projectSourcePath = projectPath + "\\src";
 
